@@ -85,8 +85,12 @@ Discord bots and Minecraft tooling — all engineered together, from idea to rel
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itzraynx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=E11D48&text_color=C9D1D9" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=itzraynx&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=E11D48&currStreakLabel=8B5CF6" alt="GitHub streak"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzraynx&theme=tokyonight" alt="Profile details"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzraynx&theme=tokyonight" alt="Stats"/>
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=itzraynx&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=E11D48&currStreakLabel=8B5CF6" alt="GitHub streak"/>
 
 </div>
 
